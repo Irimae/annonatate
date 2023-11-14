@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2023-11-14 11:46:04.396994'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://www.digitalcollections.manchester.ac.uk/iiif/MM-A-00310
+  user: Irimae
 settings: {}
 version: '2.1'
