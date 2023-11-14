@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MM-A-00310/canvas/1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Big ears, all the better to hear you with ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Irimae",
+                "name": "Irimae"
+            },
+            "created": "2023-11-14T11:46:20.616Z",
+            "modified": "2023-11-14T11:46:25.467Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MM-A-00310",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MM-A-00310/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3103.3505859375,28.958160400390625,1521.37939453125,830.8556823730469"
+        }
+    },
+    "id": "d06f7d0f-fd0a-40bc-8360-bd8d1a184114.json",
+    "motivation": "commenting"
+}
