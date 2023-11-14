@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/MM-A-00310/canvas/1"
+order: 3
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Big teeth, all the better to eat you with ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Irimae",
+                "name": "Irimae"
+            },
+            "created": "2023-11-14T11:47:23.644Z",
+            "modified": "2023-11-14T11:47:31.546Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MM-A-00310",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/MM-A-00310/canvas/1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3448.612548828125,1131.5675048828125,953.367919921875,427.6790771484375"
+        }
+    },
+    "id": "0886a8e4-9f61-40b1-b09b-074becb0ca69.json",
+    "motivation": "commenting"
+}
